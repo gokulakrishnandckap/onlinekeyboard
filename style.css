@@ -1,0 +1,172 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Lexend+Giga:wght@800&family=Lobster&family=Roboto:wght@100;400&display=swap'); */
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+*{
+    font-size: 20px;
+
+}
+button{
+    cursor: pointer;
+}
+textarea.area {
+    width: 1073px;
+    height: 130px;
+    margin-top: 5px;
+    margin-left: 50px;
+    border-radius: 5px;
+    /* background-color: rgb(0, 182, 228); */
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+}
+.keyboard {
+    /* margin: 60px 30px; */
+ margin-left: 45px; 
+    /* position: relative; */
+    /* top: 80px; */
+    /* left: 40px; */
+
+}
+.buttons>button{
+    width: 60px;
+    height: 58px;
+    margin: 8px 5px;
+    cursor: pointer;
+}
+h2{
+    text-align: center;
+    color: red;
+}
+button#\38 {
+    width: 165px;
+    text-align: end;
+    padding-right: 10px;
+
+}
+button#\39 {
+    width: 95px;
+    text-align: start;
+    padding-left: 10px;
+}
+button#\32 20 {
+    width: 130px;
+    text-align: start;
+    padding-left: 10px;
+}
+
+button#\32 0 {
+    width: 122px;
+    text-align: start;
+    padding-left: 10px;
+}
+button#\31 3 {
+    width: 173px;
+    text-align: end;
+    padding-right: 10px;
+
+}
+button#\39 0 {
+    margin-left: 184px;
+}
+.shift {
+    position: relative;
+    bottom: 87px;
+    height: 58px;
+    left: 7px;
+    width: 166px;
+    text-align: start;
+    padding-left: 10px;
+}
+.CapsLock>.show{
+    background-color: blue;
+}
+.shifts {
+    height: 58px;
+    width: 197px;
+    position: relative;
+    left: 713px;
+    bottom: 87px;
+    text-align: end;
+    padding-right: 10px;
+}
+button.spaces {
+    width: 475px;
+    /* margin-right: 136px; */
+    position: relative;
+    right: 353px;
+    top: 10px;
+    height: 58px;
+}
+button#\31 92 {
+    text-align: start;
+    padding-left: 10px;
+}
+.active{
+    background-color: rgb(86, 110, 218);
+
+}
+
+button.Alt {
+    width: 74px;
+    position: relative;
+    right: 361px;
+    height: 58px;
+    bottom: 11px;
+}
+button{
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    border-color: aliceblue;
+}
+body{
+    background-color: rgb(234, 238, 245);
+}
+button.Ctrl {
+    width: 85px;
+    position: relative;
+    right: 364px;
+    height: 58px;
+    bottom: 11px;
+}
+button.voice {
+    position: relative;
+    right: 254px;
+    /* left: 741px; */
+    bottom: 12px;
+    height: 58px;
+    width: 80px;
+}
+
+
+/* button.tamil {
+    position: relative;
+    left: 773px;
+    height: 57px;
+    width: 223px;
+    bottom: 71px;
+} */
+button.voice1 {
+    width: 80px;
+    height: 58px;
+    position: relative;
+    left: 677px;
+    bottom: 69px;
+}
+button.tamil {
+    position: relative;
+    left: 774px;
+    height: 57px;
+    width: 222px;
+    bottom: 71px;
+    text-align: end;
+    padding-right: 10px;
+}
+h1{
+    text-align: center;
+    color: blue;
+}
+.actives{
+    background-color: blue;
+    color: white;
+}
